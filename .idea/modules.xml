@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/module05-question01/module05-question01.iml" filepath="$PROJECT_DIR$/module05-question01/module05-question01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module05-question02/module05-question02.iml" filepath="$PROJECT_DIR$/module05-question02/module05-question02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module05-question02/module05-question02-dispatcher-servlet/module05-question02-dispatcher-servlet.iml" filepath="$PROJECT_DIR$/module05-question02/module05-question02-dispatcher-servlet/module05-question02-dispatcher-servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module05-question02/module05-question02-my-servlet/module05-question02-my-servlet.iml" filepath="$PROJECT_DIR$/module05-question02/module05-question02-my-servlet/module05-question02-my-servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module05-question03/module05-question03.iml" filepath="$PROJECT_DIR$/module05-question03/module05-question03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module05-question04/module05-question04.iml" filepath="$PROJECT_DIR$/module05-question04/module05-question04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module05-question05/module05-question05.iml" filepath="$PROJECT_DIR$/module05-question05/module05-question05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module05-question06/module05-question06.iml" filepath="$PROJECT_DIR$/module05-question06/module05-question06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module05-question07/module05-question07.iml" filepath="$PROJECT_DIR$/module05-question07/module05-question07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module05-question08/module05-question08.iml" filepath="$PROJECT_DIR$/module05-question08/module05-question08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module05-question09/module05-question09.iml" filepath="$PROJECT_DIR$/module05-question09/module05-question09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module05-question10/module05-question10.iml" filepath="$PROJECT_DIR$/module05-question10/module05-question10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module05-question11/module05-question11.iml" filepath="$PROJECT_DIR$/module05-question11/module05-question11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-professional-exam-tutorial-parent.iml" filepath="$PROJECT_DIR$/spring-professional-exam-tutorial-parent.iml" />
+    </modules>
+  </component>
+</project>
